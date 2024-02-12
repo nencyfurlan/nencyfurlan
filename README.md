@@ -1,11 +1,12 @@
-- 👋 Hello there, I’m Nency (just like 'Nancy' but wwith an 'e') and be welcome to my profile!
+👋 Hello there, I’m Nency (just like 'Nancy' but with an 'e') and be welcome to my profile!
 
 Before we begin, there are some things you should know about me:
 - 🚀  I’m just a rookie tech enthusiast who believes that technology is the key to transformation.
-- 👩‍💻  I'm currently learning the basics of Python and some SQL (please play nice).
+- 🎓 I'm a student of analysis and systems development.
+- 👩‍💻 I'm learning the basics of Python and some SQL (please play nice). 
 - 📫 How to reach me nencyfurlan@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm a huge Harry Potter fan and I'm crazy about Valorant.
+- 💪 A fact about: Even though I don't know many things yet, I'm striving to learn every day.
 
 <!---
 nencyfurlan/nencyfurlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
