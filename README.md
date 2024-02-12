@@ -1,4 +1,4 @@
-- 👋 Hello there, I’m @nencyfurlan
+- 👋 Hello there, I’m Nency (just like 'Nancy' but wwith an 'e')
 - 🚀  I’m just a rookie tech enthusiast who believes that technology is the key to transformation.
 - 👩‍💻  I'm currently learning the basics of Python and some SQL.
 - 📫 How to reach me nencyfurlan@gmail.com
