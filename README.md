@@ -3,7 +3,7 @@
 </h1> 
 
 ### Algumas informações úteis sobre mim:
-- 🚀 Sou apenas uma novata entusiata de técnologia que acredita na transformação do mundo atráves do meio digital.
+- 🚀 Sou apenas uma novata entusiasta de técnologia que acredita na transformação do mundo atráves do meio digital.
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
 - 😄 Pronomes: Ela/Dela.
 - 💪 Um fato curioso: Sou apaixonada por adquirir conhecimento.
