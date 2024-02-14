@@ -6,7 +6,7 @@
 </h2>
   <div> 
   
-##### Esta página é dedicada a compartilhar projetos interessantes e as minhas contribuições para a comunidade.
+ Esta página é dedicada a compartilhar projetos interessantes e as minhas contribuições para a comunidade.
 </h2>
 <div> 
 
