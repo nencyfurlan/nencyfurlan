@@ -1,11 +1,10 @@
 <div> 
-<h1 align='center'>
-<img alt="Static Badge" src="https://img.shields.io/badge/Sauda%C3%A7%C3%B5es%2C%20Humanos!%20Bem%20vindos%20ao%20meu%20perfil%20do%20GitHub-%23f5fffb?style=social&logo=Nency-Furlan&logoColor=%23f5fffb&labelColor=%23f5fffb&color=%23f5fffb&cacheSeconds=nency" style="font-size: 84px;">
-<img alt="Static Badge" src="https://img.shields.io/badge/Eu%20sou%20a%20Nency!-%23d62598?style=flat&logo=Nency&logoColor=%23d62598&labelColor=%23d62598&color=%23d62598">
+<h1>
+👋 <img height="30" width="500" alt="Static Badge" src="https://img.shields.io/badge/Eu%20sou%20a%20Nency!-%23eb636b?style=social&logo=waving%20hand&logoColor=%23eb636b&label=Sauda%C3%A7%C3%B5es%2C%20humanos!%20Bem%20vindos%20ao%20meu%20perfil%20do%20GitHub!%20&labelColor=%23eb636b&color=%23eb636b"> 
+</h1>
+
 
 </h2>
-  <div> 
-  
  Esta página é dedicada a compartilhar projetos interessantes e as minhas contribuições para a comunidade.
 </h2>
 <div> 
